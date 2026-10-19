@@ -1,0 +1,15 @@
+# OS / editors
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*~
+.vscode/
+.idea/
+
+# node tooling (only if you add a build step)
+node_modules/
+
+# logs
+*.log
+npm-debug.log*

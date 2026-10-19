@@ -1,0 +1,244 @@
+$meta
+  title = T2Smart-PicHancer — AI Photo Studio
+  description = T2Smart-PicHancer: smart photo editor for the web — 212 looks, light, color, effects, crop, heal, text. All smart looks unlocked.
+  image = ./media/e6e9528b61aa.jpg
+  tags = t2smart-pichancer, photo editor, filters, looks, adjustments, ai photo
+
+kv = {import:kv-plugin}
+generateImage = {import:text-to-image-plugin}
+
+look
+  Normal
+  Venice
+  Porter
+  Vibrant
+  Bueno
+  Savin
+  Atlantic
+  Negative
+  Moreland
+  Spillman
+  Willowbrook
+  Mason
+  Shelby
+  HDR Punch
+  HDR Glow
+  Cinematic
+  Classic
+  Colorful
+  Bright
+  Orton
+  Sepia
+  Sepia Soft
+  Pinhole
+  High Contrast B&W
+  Infrared
+  Twilight
+  The Blues
+  Vintage II
+  Warm Vintage
+  White Mist
+  Matte 1
+  Matte 2
+  Light 1
+  Light 2
+  Warm Glow
+  Duotone Indigo
+  Duotone Ember
+  Pop Red
+  Pop Blue
+  Pop Green
+  Flash
+  Cloudy
+  Tungsten
+  Portra 400
+  Ektar 100
+  Gold 200
+  Superia 800
+  CineStill 800
+  Fuji Pro
+  Tri-X
+  HP5
+  Delta 3200
+  XP2 Mono
+  Ektachrome
+  Velvia
+  UltraMax
+  Lomo 100
+  RevoGold
+  B&W Red Filter
+  B&W Orange
+  B&W Yellow
+  B&W Green
+  Selenium
+  Platinum
+  Cyanotype
+  Van Dyke
+  Lith Print
+  Pushed +2
+  Faded Press
+  Soft Portrait B&W
+  Duotone Rose
+  Duotone Teal
+  Duotone Forest
+  Duotone Plum
+  Duotone Copper
+  Duotone Slate
+  Duotone Mint
+  Duotone Crimson
+  Duotone Gold
+  Duotone Midnight
+  Duotone Coral
+  Duotone Olive
+  Matte 3 Cool
+  Fade 2
+  Fade 3 Cream
+  Matte B&W
+  Washed Denim
+  Paperwhite
+  Cine Green
+  Cine Magenta
+  Cine Noir
+  Cine Day
+  Cine Night
+  Cine Gold
+  Cine Steel
+  Cine Ember
+  HDR Detail
+  HDR Sunset
+  HDR Mono
+  HDR Pastel
+  Dramatic Sky
+  Grunge
+  Spring Bloom
+  Winter Frost
+  Monsoon
+  Harvest Gold
+  Evergreen
+  Desert Noon
+  Tundra
+  Rainforest
+  Golden Hour Skin
+  Bronze Glow
+  Rosé
+  Honey Light
+  Porcelain
+  Sun-Kissed
+  Studio Clean
+  Moody Portrait
+  Fairy Light
+  Aerial Haze Cut
+  Lagoon
+  Canyon Red
+  Meadow Fresh
+  Volcano Ash
+  Glacier Blue
+  Badlands
+  Midnight Sun
+  Storm Front
+  Style · Ukiyo-e
+  Style · Oil Warm
+  Style · Oil Cool
+  Style · Watercolor
+  Style · Comic Pop
+  Style · Neon Noir
+  Style · Synthwave
+  Style · Aerochrome
+  Style · X-Pro I
+  Style · X-Pro II
+  Style · Bleach Bypass
+  Style · Bleach Warm
+  Style · Lomo Red
+  Style · Lomo Blue
+  Style · Toy Camera
+  Style · Pinhole II
+  Style · Miniature
+  Style · Neon Duo
+  Style · Sunset Duo
+  Style · Poster
+  Style · Solarize
+  Style · Cuprum
+  Style · Indigo Night
+  Style · Ember Mono
+  Style · Frost Mono
+  Style · Sandstorm
+  Style · Abyss
+  Style · Bloom Pop
+  Style · Neo Noir
+  Style · Vapor
+  Style · Giallo
+  Style · Nordic
+  Style · Tropicana
+  Newsprint
+  Riso Pop
+  Xerox
+  Sabattier
+  VHS Tracking
+  Arcade 83
+  Night Ops
+  Glitch Avenue
+  Anaglyph Ghost
+  Rorschach
+  Mirrorpond
+  Mosaic Dreams
+  8-Bit Hero
+  Sunbleed
+  Leak 79
+  Thermal Scope
+  Magma Chamber
+  Deepsea Sonar
+  Ultraviolet
+  X-Ray Plate
+  Blueprint
+  Acid House
+  Dayglo
+  Chromatica RG
+  Aero Inverse
+  Cotton Candy
+  Matcha
+  Aden Day
+  Ludwig Warm
+  Reyes Dust
+  Moonlite
+  Ambrotype
+  Tintype Cold
+  Ink Wash
+  Silver Gelatin
+  Duotone Copperplate
+  Tritone Rose
+  Duotone Ultraviolet
+  Cross Light
+  Lomo Pop
+  Gradient Violet
+  Split Tone
+  Morandi
+  CCD Flash
+  90s Flash
+  Misty
+  Amber Hour
+  Euro Fade
+  Yummy
+  Neon Edge
+  Noir
+
+adjustment
+  exposure
+  contrast
+  highlights
+  shadows
+  whites
+  blacks
+  temperature
+  tint
+  vibrance
+  saturation
+  clarity
+  dehaze
+  texture
+  sharpen
+  grain
+  fade
+  vignette
+
+output
+  [look]
